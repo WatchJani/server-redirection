@@ -1,0 +1,13 @@
+{
+    "nodeNumber": 256,
+    "servers": [
+        {
+            "name": "NorthBiH",
+            "ip": "http://localhost:5001/"
+        },
+        {
+            "name": "EastBridge",
+            "ip": "http://localhost:5002/"
+        }
+    ]
+}
